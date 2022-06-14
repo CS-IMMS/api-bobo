@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    background-color: RGB(39, 155, 147)
+    ;
+    color: white;
+}
+h1{
+    padding-top: 10rem;
+}
+button{
+    color: white;
+    background: black;
+    padding: 10px;
+}
+
+.monimg{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50px;
+}
